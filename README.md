@@ -13,7 +13,7 @@ El simulador implementa desde la planificación avanzada de procesos y la gesti�
 
 ## 🏗️ Arquitectura del Sistema
 
-La arquitectura está inspirada en sistemas distribuidos compuestos por microservicios, donde cada módulo representa una capa física de hardware/kernel:
+La arquitectura está inspirada en sistemas distribuidos compuestos por modulos, donde cada módulo representa una capa física de hardware/kernel:
 
 ```mermaid
 graph TD
